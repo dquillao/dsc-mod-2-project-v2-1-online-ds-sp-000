@@ -1,7 +1,9 @@
 # Module 2 Final Project
 
-## Problem Statement
-Effective home valuations make the home buying process more efficient and less stressful. Knowing the right value of a home can help buyers secure the best deal.
+## Business Value
+Real estate is an enormously competitive field. The chances are that your area already has at least one or two successful and popular real estate brokers and real estate companies actively engaged in the marketplace.
+
+Understanding the Kings County housing market and considering a specific niche will help you build more successful real estate business and you give you a leg up on the competition.
 
 ## Goal
 1. Gain an understanding of features that affect home sale prices
